@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@500&display=swap');
+
+
+.photobook {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.frame1 {
+    flex: 33%;
+    text-align: center;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.frame2 {
+    flex: 33%;
+    text-align: center;
+    justify-content: space-between;
+    padding-bottom: 80px;
+
+}
+
+.imgsize {
+    width: 280px;
+    margin: 40px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.btn {
+    font-size: 18px;
+    width: 180px;
+    height: 60px;
+    margin: 40px;
+    background-color: #ffbf49;
+    border-radius: 6px;
+    border-width: 0px;
+    color: rgb(132, 94, 7);
+    font-family: Roboto Condensed;
+
+}

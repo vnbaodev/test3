@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
+.brand {
+    font-family: Lilita One;
+    font-size: 24px;
+    color: #acafb6;
+}
+
+.text {
+    font-family: Oswald;
+    font-size: 14px;
+    color: #acafb6;
+}
