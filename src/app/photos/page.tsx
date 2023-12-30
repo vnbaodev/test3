@@ -5,7 +5,7 @@ import { useRouter } from 'next/navigation'
 import Container from 'react-bootstrap/Container'
 
 
-const photos = () => {
+const Photos = () => {
     const router = useRouter()
     const ClickButton = () => {
         router.push("/")
@@ -58,4 +58,4 @@ const photos = () => {
     )
 }
 
-export default photos;
+export default Photos;
